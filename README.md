@@ -26,4 +26,4 @@ This study investigates the predictive power of first-half basketball statistics
   3. Second-Half Turnover Comparison
 
 ## File Structure
-* `Anıl Alpay-Yusuf Hakan Aktaş_STAT438_Project2.pdf`: Detailed academic project report.
+* `Yunus Hakan Aktaş_STAT438_Project.pdf`: Detailed academic project report.
